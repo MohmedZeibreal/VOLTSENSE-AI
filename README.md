@@ -1,51 +1,52 @@
-# VoltSense AI - EEE Smart Meter Analytics
+⚡ VOLTSENSE-AI
+VOLTSENSE-AI is an intelligent energy monitoring and analytics platform that combines IoT, Machine Learning, and real-time data processing to optimize power consumption and improve electrical safety.
 
-VoltSense AI is a hybrid AI platform (CNN + SVM) for digital meter reading extraction and power consumption analytics, localized for TANGEDCO (Tamil Nadu) standards.
+It is designed to help users track, analyze, and predict energy usage, enabling smarter decisions for efficiency, cost savings, and sustainability.
 
-## 🚀 Local Setup (VS Code)
+🚀 Features
+📊 Real-Time Monitoring
+Track voltage, current, and power consumption dynamically
 
-To run this project locally, follow these steps:
+🤖 AI-Powered Insights
+Analyze usage patterns and provide smart recommendations
 
-### 1. Prerequisites
-- **Node.js** (v18 or higher)
-- **Gemini API Key**: Get one for free at [Google AI Studio](https://aistudio.google.com/app/apikey).
+⚡ Energy Optimization
+Reduce wastage and improve efficiency with predictive analytics
 
-### 2. Environment Configuration
-1. Create a `.env` file in the root directory.
-2. Copy the contents of `.env.example` into `.env`.
-3. Replace `your_gemini_api_key_here` with your actual API key.
+🔔 Smart Alerts & Safety
+Detect anomalies and prevent electrical hazards
 
-```env
-GEMINI_API_KEY=your_actual_key_here
-```
+🌍 Sustainability Focus
+Monitor carbon footprint and promote energy-efficient behavior
 
-### 3. Installation & Development
-Open your terminal in VS Code and run:
+📈 Interactive Dashboard
+Visualize data with intuitive graphs and insights
 
-```bash
-# Install dependencies
-npm install
+🛠️ Tech Stack
+Frontend: React.js / Streamlit (based on your implementation)
 
-# Start the full-stack development server
-npm run dev
-```
+Backend: Python (FastAPI / Flask)
 
-The app will be available at `http://localhost:3000`.
+Machine Learning: Scikit-learn / TensorFlow
 
-## 🛠️ Project Structure
-- `src/App.tsx`: Main React application (Frontend).
-- `server.ts`: Express server (Backend) with Vite middleware.
-- `src/lib/utils.ts`: Localization, Billing Logic, and AI Interpretations.
-- `history.json`: Local database for meter readings (auto-generated).
+Database: MongoDB / Firebase
 
-## 📊 Features
-- **AI Meter Scanning**: Dual-model (CNN+SVM) verification.
-- **TANGEDCO Billing**: Accurate slab-based cost estimation.
-- **Bilingual Support**: English & Tamil.
-- **EEE Analytics**: Power system load profile interpretations.
+IoT Integration: Sensor-based real-time data
 
-## ⚠️ Troubleshooting
-If the meter analysis shows "Analysis failed":
-1. Ensure your `.env` file is named correctly (not `.env.txt`).
-2. Verify your API key is valid in [Google AI Studio](https://aistudio.google.com/app/apikey).
-3. Check the VS Code terminal for any server-side errors.
+🎯 Use Cases
+Smart homes energy monitoring
+
+Industrial power optimization
+
+Smart grids & IoT-based systems
+
+Educational AI + sustainability projects
+
+💡 Vision
+To build a smart, AI-driven energy ecosystem that empowers users to monitor, control, and optimize electricity usage efficiently while contributing to a greener future.
+
+🤝 Contributing
+Contributions are welcome! Feel free to fork this repo, raise issues, or submit pull requests to improve the project.
+
+📜 License
+This project is licensed under the MIT License.
