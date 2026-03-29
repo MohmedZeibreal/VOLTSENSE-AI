@@ -1,0 +1,7 @@
+{
+  "name": "VoltSense AI - Smart Energy Monitor",
+  "description": "An advanced EEE domain project for smart meter reading verification using CNN+SVM logic, featuring TANGEDCO billing and 90-day history analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

@@ -1,0 +1,669 @@
+[
+  {
+    "day": 1,
+    "date": "2025-12-26",
+    "reading_kwh": 10004.8,
+    "units_used": 4.8,
+    "timestamp": 1766707200000
+  },
+  {
+    "day": 2,
+    "date": "2025-12-27",
+    "reading_kwh": 10011.2,
+    "units_used": 6.4,
+    "timestamp": 1766793600000
+  },
+  {
+    "day": 3,
+    "date": "2025-12-28",
+    "reading_kwh": 10017.4,
+    "units_used": 6.2,
+    "timestamp": 1766880000000
+  },
+  {
+    "day": 4,
+    "date": "2025-12-29",
+    "reading_kwh": 10021.9,
+    "units_used": 4.5,
+    "timestamp": 1766966400000
+  },
+  {
+    "day": 5,
+    "date": "2025-12-30",
+    "reading_kwh": 10026.1,
+    "units_used": 4.2,
+    "timestamp": 1767052800000
+  },
+  {
+    "day": 6,
+    "date": "2025-12-31",
+    "reading_kwh": 10031.1,
+    "units_used": 5,
+    "timestamp": 1767139200000
+  },
+  {
+    "day": 7,
+    "date": "2026-01-01",
+    "reading_kwh": 10035.8,
+    "units_used": 4.7,
+    "timestamp": 1767225600000
+  },
+  {
+    "day": 8,
+    "date": "2026-01-02",
+    "reading_kwh": 10040.2,
+    "units_used": 4.4,
+    "timestamp": 1767312000000
+  },
+  {
+    "day": 9,
+    "date": "2026-01-03",
+    "reading_kwh": 10046,
+    "units_used": 5.8,
+    "timestamp": 1767398400000
+  },
+  {
+    "day": 10,
+    "date": "2026-01-04",
+    "reading_kwh": 10053.2,
+    "units_used": 7.2,
+    "timestamp": 1767484800000
+  },
+  {
+    "day": 11,
+    "date": "2026-01-05",
+    "reading_kwh": 10056.9,
+    "units_used": 3.7,
+    "timestamp": 1767571200000
+  },
+  {
+    "day": 12,
+    "date": "2026-01-06",
+    "reading_kwh": 10061.2,
+    "units_used": 4.3,
+    "timestamp": 1767657600000
+  },
+  {
+    "day": 13,
+    "date": "2026-01-07",
+    "reading_kwh": 10069.4,
+    "units_used": 8.2,
+    "timestamp": 1767744000000
+  },
+  {
+    "day": 14,
+    "date": "2026-01-08",
+    "reading_kwh": 10080.9,
+    "units_used": 11.5,
+    "timestamp": 1767830400000
+  },
+  {
+    "day": 15,
+    "date": "2026-01-09",
+    "reading_kwh": 10091.7,
+    "units_used": 10.8,
+    "timestamp": 1767916800000
+  },
+  {
+    "day": 16,
+    "date": "2026-01-10",
+    "reading_kwh": 10097.6,
+    "units_used": 5.9,
+    "timestamp": 1768003200000
+  },
+  {
+    "day": 17,
+    "date": "2026-01-11",
+    "reading_kwh": 10105,
+    "units_used": 7.4,
+    "timestamp": 1768089600000
+  },
+  {
+    "day": 18,
+    "date": "2026-01-12",
+    "reading_kwh": 10108.9,
+    "units_used": 3.9,
+    "timestamp": 1768176000000
+  },
+  {
+    "day": 19,
+    "date": "2026-01-13",
+    "reading_kwh": 10113,
+    "units_used": 4.1,
+    "timestamp": 1768262400000
+  },
+  {
+    "day": 20,
+    "date": "2026-01-14",
+    "reading_kwh": 10116.6,
+    "units_used": 3.6,
+    "timestamp": 1768348800000
+  },
+  {
+    "day": 21,
+    "date": "2026-01-15",
+    "reading_kwh": 10121.1,
+    "units_used": 4.5,
+    "timestamp": 1768435200000
+  },
+  {
+    "day": 22,
+    "date": "2026-01-16",
+    "reading_kwh": 10125.8,
+    "units_used": 4.7,
+    "timestamp": 1768521600000
+  },
+  {
+    "day": 23,
+    "date": "2026-01-17",
+    "reading_kwh": 10132.3,
+    "units_used": 6.5,
+    "timestamp": 1768608000000
+  },
+  {
+    "day": 24,
+    "date": "2026-01-18",
+    "reading_kwh": 10139.8,
+    "units_used": 7.5,
+    "timestamp": 1768694400000
+  },
+  {
+    "day": 25,
+    "date": "2026-01-19",
+    "reading_kwh": 10144,
+    "units_used": 4.2,
+    "timestamp": 1768780800000
+  },
+  {
+    "day": 26,
+    "date": "2026-01-20",
+    "reading_kwh": 10153.2,
+    "units_used": 9.2,
+    "timestamp": 1768867200000
+  },
+  {
+    "day": 27,
+    "date": "2026-01-21",
+    "reading_kwh": 10157.2,
+    "units_used": 4,
+    "timestamp": 1768953600000
+  },
+  {
+    "day": 28,
+    "date": "2026-01-22",
+    "reading_kwh": 10161.8,
+    "units_used": 4.6,
+    "timestamp": 1769040000000
+  },
+  {
+    "day": 29,
+    "date": "2026-01-23",
+    "reading_kwh": 10166.5,
+    "units_used": 4.7,
+    "timestamp": 1769126400000
+  },
+  {
+    "day": 30,
+    "date": "2026-01-24",
+    "reading_kwh": 10172.8,
+    "units_used": 6.3,
+    "timestamp": 1769212800000
+  },
+  {
+    "day": 31,
+    "date": "2026-01-25",
+    "reading_kwh": 10179.5,
+    "units_used": 6.7,
+    "timestamp": 1769299200000
+  },
+  {
+    "day": 32,
+    "date": "2026-01-26",
+    "reading_kwh": 10183.7,
+    "units_used": 4.2,
+    "timestamp": 1769385600000
+  },
+  {
+    "day": 33,
+    "date": "2026-01-27",
+    "reading_kwh": 10188.8,
+    "units_used": 5.1,
+    "timestamp": 1769472000000
+  },
+  {
+    "day": 34,
+    "date": "2026-01-28",
+    "reading_kwh": 10193.8,
+    "units_used": 5,
+    "timestamp": 1769558400000
+  },
+  {
+    "day": 35,
+    "date": "2026-01-29",
+    "reading_kwh": 10198.2,
+    "units_used": 4.4,
+    "timestamp": 1769644800000
+  },
+  {
+    "day": 36,
+    "date": "2026-01-30",
+    "reading_kwh": 10203.6,
+    "units_used": 5.4,
+    "timestamp": 1769731200000
+  },
+  {
+    "day": 37,
+    "date": "2026-01-31",
+    "reading_kwh": 10209.5,
+    "units_used": 5.9,
+    "timestamp": 1769817600000
+  },
+  {
+    "day": 38,
+    "date": "2026-02-01",
+    "reading_kwh": 10215.6,
+    "units_used": 6.1,
+    "timestamp": 1769904000000
+  },
+  {
+    "day": 39,
+    "date": "2026-02-02",
+    "reading_kwh": 10220.7,
+    "units_used": 5.1,
+    "timestamp": 1769990400000
+  },
+  {
+    "day": 40,
+    "date": "2026-02-03",
+    "reading_kwh": 10225.2,
+    "units_used": 4.5,
+    "timestamp": 1770076800000
+  },
+  {
+    "day": 41,
+    "date": "2026-02-04",
+    "reading_kwh": 10229.3,
+    "units_used": 4.1,
+    "timestamp": 1770163200000
+  },
+  {
+    "day": 42,
+    "date": "2026-02-05",
+    "reading_kwh": 10234.7,
+    "units_used": 5.4,
+    "timestamp": 1770249600000
+  },
+  {
+    "day": 43,
+    "date": "2026-02-06",
+    "reading_kwh": 10240.2,
+    "units_used": 5.5,
+    "timestamp": 1770336000000
+  },
+  {
+    "day": 44,
+    "date": "2026-02-07",
+    "reading_kwh": 10250.7,
+    "units_used": 10.5,
+    "timestamp": 1770422400000
+  },
+  {
+    "day": 45,
+    "date": "2026-02-08",
+    "reading_kwh": 10257.3,
+    "units_used": 6.6,
+    "timestamp": 1770508800000
+  },
+  {
+    "day": 46,
+    "date": "2026-02-09",
+    "reading_kwh": 10262.6,
+    "units_used": 5.3,
+    "timestamp": 1770595200000
+  },
+  {
+    "day": 47,
+    "date": "2026-02-10",
+    "reading_kwh": 10267.3,
+    "units_used": 4.7,
+    "timestamp": 1770681600000
+  },
+  {
+    "day": 48,
+    "date": "2026-02-11",
+    "reading_kwh": 10272.3,
+    "units_used": 5,
+    "timestamp": 1770768000000
+  },
+  {
+    "day": 49,
+    "date": "2026-02-12",
+    "reading_kwh": 10277.3,
+    "units_used": 5,
+    "timestamp": 1770854400000
+  },
+  {
+    "day": 50,
+    "date": "2026-02-13",
+    "reading_kwh": 10281.3,
+    "units_used": 4,
+    "timestamp": 1770940800000
+  },
+  {
+    "day": 51,
+    "date": "2026-02-14",
+    "reading_kwh": 10288,
+    "units_used": 6.7,
+    "timestamp": 1771027200000
+  },
+  {
+    "day": 52,
+    "date": "2026-02-15",
+    "reading_kwh": 10294,
+    "units_used": 6,
+    "timestamp": 1771113600000
+  },
+  {
+    "day": 53,
+    "date": "2026-02-16",
+    "reading_kwh": 10298,
+    "units_used": 4,
+    "timestamp": 1771200000000
+  },
+  {
+    "day": 54,
+    "date": "2026-02-17",
+    "reading_kwh": 10302.2,
+    "units_used": 4.2,
+    "timestamp": 1771286400000
+  },
+  {
+    "day": 55,
+    "date": "2026-02-18",
+    "reading_kwh": 10307.3,
+    "units_used": 5.1,
+    "timestamp": 1771372800000
+  },
+  {
+    "day": 56,
+    "date": "2026-02-19",
+    "reading_kwh": 10311.8,
+    "units_used": 4.5,
+    "timestamp": 1771459200000
+  },
+  {
+    "day": 57,
+    "date": "2026-02-20",
+    "reading_kwh": 10316.7,
+    "units_used": 4.9,
+    "timestamp": 1771545600000
+  },
+  {
+    "day": 58,
+    "date": "2026-02-21",
+    "reading_kwh": 10325.5,
+    "units_used": 8.8,
+    "timestamp": 1771632000000
+  },
+  {
+    "day": 59,
+    "date": "2026-02-22",
+    "reading_kwh": 10331.8,
+    "units_used": 6.3,
+    "timestamp": 1771718400000
+  },
+  {
+    "day": 60,
+    "date": "2026-02-23",
+    "reading_kwh": 10337.5,
+    "units_used": 5.7,
+    "timestamp": 1771804800000
+  },
+  {
+    "day": 61,
+    "date": "2026-02-24",
+    "reading_kwh": 10343.9,
+    "units_used": 6.4,
+    "timestamp": 1771891200000
+  },
+  {
+    "day": 62,
+    "date": "2026-02-25",
+    "reading_kwh": 10349.8,
+    "units_used": 5.9,
+    "timestamp": 1771977600000
+  },
+  {
+    "day": 63,
+    "date": "2026-02-26",
+    "reading_kwh": 10355.6,
+    "units_used": 5.8,
+    "timestamp": 1772064000000
+  },
+  {
+    "day": 64,
+    "date": "2026-02-27",
+    "reading_kwh": 10361.7,
+    "units_used": 6.1,
+    "timestamp": 1772150400000
+  },
+  {
+    "day": 65,
+    "date": "2026-02-28",
+    "reading_kwh": 10368.9,
+    "units_used": 7.2,
+    "timestamp": 1772236800000
+  },
+  {
+    "day": 66,
+    "date": "2026-03-01",
+    "reading_kwh": 10375,
+    "units_used": 6.1,
+    "timestamp": 1772323200000
+  },
+  {
+    "day": 67,
+    "date": "2026-03-02",
+    "reading_kwh": 10381.5,
+    "units_used": 6.5,
+    "timestamp": 1772409600000
+  },
+  {
+    "day": 68,
+    "date": "2026-03-03",
+    "reading_kwh": 10387.9,
+    "units_used": 6.4,
+    "timestamp": 1772496000000
+  },
+  {
+    "day": 69,
+    "date": "2026-03-04",
+    "reading_kwh": 10394.8,
+    "units_used": 6.9,
+    "timestamp": 1772582400000
+  },
+  {
+    "day": 70,
+    "date": "2026-03-05",
+    "reading_kwh": 10400.9,
+    "units_used": 6.1,
+    "timestamp": 1772668800000
+  },
+  {
+    "day": 71,
+    "date": "2026-03-06",
+    "reading_kwh": 10407.8,
+    "units_used": 6.9,
+    "timestamp": 1772755200000
+  },
+  {
+    "day": 72,
+    "date": "2026-03-07",
+    "reading_kwh": 10414.7,
+    "units_used": 6.9,
+    "timestamp": 1772841600000
+  },
+  {
+    "day": 73,
+    "date": "2026-03-08",
+    "reading_kwh": 10425.7,
+    "units_used": 11,
+    "timestamp": 1772928000000
+  },
+  {
+    "day": 74,
+    "date": "2026-03-09",
+    "reading_kwh": 10437.8,
+    "units_used": 12.1,
+    "timestamp": 1773014400000
+  },
+  {
+    "day": 75,
+    "date": "2026-03-10",
+    "reading_kwh": 10443.3,
+    "units_used": 5.5,
+    "timestamp": 1773100800000
+  },
+  {
+    "day": 76,
+    "date": "2026-03-11",
+    "reading_kwh": 10449.4,
+    "units_used": 6.1,
+    "timestamp": 1773187200000
+  },
+  {
+    "day": 77,
+    "date": "2026-03-12",
+    "reading_kwh": 10456,
+    "units_used": 6.6,
+    "timestamp": 1773273600000
+  },
+  {
+    "day": 78,
+    "date": "2026-03-13",
+    "reading_kwh": 10461.6,
+    "units_used": 5.6,
+    "timestamp": 1773360000000
+  },
+  {
+    "day": 79,
+    "date": "2026-03-14",
+    "reading_kwh": 10469.1,
+    "units_used": 7.5,
+    "timestamp": 1773446400000
+  },
+  {
+    "day": 80,
+    "date": "2026-03-15",
+    "reading_kwh": 10476.4,
+    "units_used": 7.3,
+    "timestamp": 1773532800000
+  },
+  {
+    "day": 81,
+    "date": "2026-03-16",
+    "reading_kwh": 10482,
+    "units_used": 5.6,
+    "timestamp": 1773619200000
+  },
+  {
+    "day": 82,
+    "date": "2026-03-17",
+    "reading_kwh": 10488.6,
+    "units_used": 6.6,
+    "timestamp": 1773705600000
+  },
+  {
+    "day": 83,
+    "date": "2026-03-18",
+    "reading_kwh": 10494.4,
+    "units_used": 5.8,
+    "timestamp": 1773792000000
+  },
+  {
+    "day": 84,
+    "date": "2026-03-19",
+    "reading_kwh": 10499.9,
+    "units_used": 5.5,
+    "timestamp": 1773878400000
+  },
+  {
+    "day": 85,
+    "date": "2026-03-20",
+    "reading_kwh": 10505.4,
+    "units_used": 5.5,
+    "timestamp": 1773964800000
+  },
+  {
+    "day": 86,
+    "date": "2026-03-21",
+    "reading_kwh": 10512.7,
+    "units_used": 7.3,
+    "timestamp": 1774051200000
+  },
+  {
+    "day": 87,
+    "date": "2026-03-22",
+    "reading_kwh": 10522.2,
+    "units_used": 9.5,
+    "timestamp": 1774137600000
+  },
+  {
+    "day": 88,
+    "date": "2026-03-23",
+    "reading_kwh": 10528.5,
+    "units_used": 6.3,
+    "timestamp": 1774224000000
+  },
+  {
+    "day": 89,
+    "date": "2026-03-24",
+    "reading_kwh": 10535.4,
+    "units_used": 6.9,
+    "timestamp": 1774310400000
+  },
+  {
+    "day": 90,
+    "date": "2026-03-25",
+    "reading_kwh": 10542.1,
+    "units_used": 6.7,
+    "timestamp": 1774396800000
+  },
+  {
+    "day": 91,
+    "date": "2026-03-26",
+    "reading_kwh": 10548.4,
+    "units_used": 6.3,
+    "timestamp": 1774483200000
+  },
+  {
+    "day": 92,
+    "date": "2026-03-27",
+    "reading_kwh": 11889.6,
+    "units_used": 1341.2,
+    "month": "March",
+    "weekday": "Friday",
+    "is_weekend": 0,
+    "timestamp": 1774584924147
+  },
+  {
+    "day": 93,
+    "date": "2026-03-27",
+    "reading_kwh": 8675124.3,
+    "units_used": 8663234.7,
+    "month": "March",
+    "weekday": "Friday",
+    "is_weekend": 0,
+    "timestamp": 1774585026845
+  },
+  {
+    "day": 94,
+    "date": "2026-03-27",
+    "reading_kwh": 11889.6,
+    "units_used": 0,
+    "month": "March",
+    "weekday": "Friday",
+    "is_weekend": 0,
+    "timestamp": 1774586383676
+  }
+]
