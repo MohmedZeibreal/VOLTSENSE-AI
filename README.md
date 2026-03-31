@@ -1,52 +1,98 @@
 ⚡ VOLTSENSE-AI
-VOLTSENSE-AI is an intelligent energy monitoring and analytics platform that combines IoT, Machine Learning, and real-time data processing to optimize power consumption and improve electrical safety.
+Smart Energy Meter Reading & Fraud Detection using AI
+📌 Overview
 
-It is designed to help users track, analyze, and predict energy usage, enabling smarter decisions for efficiency, cost savings, and sustainability.
+VOLTSENSE-AI is an AI-powered system designed to automate electricity meter reading and detect anomalies or fraud using Machine Learning and Computer Vision.
 
-🚀 Features
-📊 Real-Time Monitoring
-Track voltage, current, and power consumption dynamically
+It eliminates manual meter reading errors and provides a scalable solution for smart energy monitoring systems.
 
-🤖 AI-Powered Insights
-Analyze usage patterns and provide smart recommendations
+🚀 Key Features
+🔍 Automatic Meter Reading using image processing
+🧠 Hybrid ML Model (CNN + SVM) for accurate digit recognition
+📊 Interactive Dashboard for monitoring readings and history
+⚠️ Anomaly / Fraud Detection in energy consumption
+🗂️ Data Logging & History Tracking
+🌐 Scalable for real-world smart grid systems
+🏗️ System Architecture
+Meter Image Input
+        ↓
+Image Preprocessing
+        ↓
+CNN Model (Feature Extraction)
+        ↓
+SVM Classifier (Digit Recognition)
+        ↓
+Prediction Output
+        ↓
+Dashboard + Database Storage
+🧠 Tech Stack
+Programming Language: Python
+Machine Learning: SVM, CNN
+Libraries:
+OpenCV
+NumPy
+Scikit-learn
+TensorFlow / Keras
+Frontend / Dashboard: Streamlit
+Dataset: Smart Meter Image Dataset (Kaggle)
+📂 Project Structure
+VOLTSENSE-AI/
+│── app.py                  # Main Streamlit application  
+│── model/                 # Trained ML models  
+│── dataset/               # Input dataset  
+│── preprocessing/         # Image preprocessing scripts  
+│── utils/                 # Helper functions  
+│── requirements.txt       # Dependencies  
+│── README.md              # Project documentation  
+⚙️ Installation & Setup
+1️⃣ Clone the Repository
+git clone https://github.com/MohmedZeibreal/VOLTSENSE-AI.git
+cd VOLTSENSE-AI
+2️⃣ Install Dependencies
+pip install -r requirements.txt
+3️⃣ Run the Application
+streamlit run app.py
+📊 How It Works
+Upload a meter image
+System preprocesses the image
+CNN extracts features from digits
+SVM predicts the meter reading
+Results are displayed on the dashboard
+Data is stored for analysis and fraud detection
+📸 Demo
 
-⚡ Energy Optimization
-Reduce wastage and improve efficiency with predictive analytics
+(Add screenshots here — very important for GitHub visibility)
 
-🔔 Smart Alerts & Safety
-Detect anomalies and prevent electrical hazards
-
-🌍 Sustainability Focus
-Monitor carbon footprint and promote energy-efficient behavior
-
-📈 Interactive Dashboard
-Visualize data with intuitive graphs and insights
-
-🛠️ Tech Stack
-Frontend: React.js / Streamlit (based on your implementation)
-
-Backend: Python (FastAPI / Flask)
-
-Machine Learning: Scikit-learn / TensorFlow
-
-Database: MongoDB / Firebase
-
-IoT Integration: Sensor-based real-time data
-
-🎯 Use Cases
-Smart homes energy monitoring
-
-Industrial power optimization
-
-Smart grids & IoT-based systems
-
-Educational AI + sustainability projects
-
-💡 Vision
-To build a smart, AI-driven energy ecosystem that empowers users to monitor, control, and optimize electricity usage efficiently while contributing to a greener future.
-
+📈 Use Cases
+⚡ Smart Electricity Billing Systems
+🏢 Energy Monitoring in Industries
+🏠 Automated Household Meter Reading
+🔐 Fraud / Tampering Detection
+🌍 Smart City Infrastructure
+🔮 Future Enhancements
+🔗 Integration with IoT-based smart meters
+📱 Mobile application support
+☁️ Cloud deployment (AWS / Firebase)
+🤖 Real-time anomaly detection using Deep Learning
+📊 Advanced analytics dashboard
 🤝 Contributing
-Contributions are welcome! Feel free to fork this repo, raise issues, or submit pull requests to improve the project.
 
+Contributions are welcome!
+
+Fork the repository
+Create a new branch
+Make your changes
+Submit a Pull Request
 📜 License
+
 This project is licensed under the MIT License.
+
+👨‍💻 Author
+
+Mohmed Zeibreal
+
+GitHub: https://github.com/MohmedZeibreal
+⭐ Support
+
+If you found this project useful:
+👉 Give it a star ⭐ on GitHub
